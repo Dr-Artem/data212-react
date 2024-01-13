@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/data212.pro/static/css/main.1a7488ce.css",
+    "main.js": "/data212.pro/static/js/main.f496026e.js",
+    "static/js/787.135ed4cc.chunk.js": "/data212.pro/static/js/787.135ed4cc.chunk.js",
+    "static/media/logo.svg": "/data212.pro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/data212.pro/index.html",
+    "main.1a7488ce.css.map": "/data212.pro/static/css/main.1a7488ce.css.map",
+    "main.f496026e.js.map": "/data212.pro/static/js/main.f496026e.js.map",
+    "787.135ed4cc.chunk.js.map": "/data212.pro/static/js/787.135ed4cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a7488ce.css",
+    "static/js/main.f496026e.js"
+  ]
+}
